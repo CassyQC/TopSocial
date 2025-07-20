@@ -11,7 +11,7 @@
       "mbti": "IFTP",
       "linked": "2114444",
       "x": "andrewli@gmail.com",
-      "wechat": "186221240116"
+      "wechat": "123456"
     },
     {
       "id": "2",
@@ -25,7 +25,7 @@
       "hobby": "Photography",
       "linkedIn": "2114445",
       "x": "alexwang@example.com",
-      "wechat": "186221240117"
+      "wechat": "100"
     }
   ],
   "userPosts": [
@@ -47,7 +47,7 @@
     },
     {
       "id": "3",
-      "user": "Andrew Li",
+      "user": "haha Li",
       "avatar": "/public/image/profile/profile_3.png",
       "image": "public/image/post-image/post-image1.jpg",
       "content": "Had a great day out with friends. We laughed so much and made some wonderful memories!",
